@@ -1,7 +1,6 @@
 # BlivFormatt - Formateador de JSON
 
 <div align="center">
-  <img src="public/blivformatt-logo.png" alt="BlivFormatt Logo" width="150" height="150" />
   
   <p align="center">
     <strong>Una herramienta elegante y minimalista para formatear y validar código JSON</strong>
