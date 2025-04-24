@@ -33,7 +33,7 @@
 BlivFormatt es una aplicación web moderna diseñada para simplificar el proceso de formateo y validación de código JSON. Con una interfaz minimalista y elegante, esta herramienta permite a desarrolladores y profesionales técnicos trabajar con datos JSON de manera eficiente y sin distracciones.
 
 <div align="center">
-  <img src="http://localhost:4321/projects/blivformatt.png" alt="BlivFormatt Screenshot" width="800" />
+  <img src="https://port-folio-eb.vercel.app/projects/blivformatt.png" alt="BlivFormatt Screenshot" width="800" />
 </div>
 
 ## ✨ Características
